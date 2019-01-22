@@ -11,8 +11,8 @@
     "lodash.sortby": "^4.7.0",
     "lodash.clamp": "4.0.3",
     "prop-types": "^15.6.2",
-    "react": "16.4.1",
-    "react-native": "0.56.0",
+    "react": "16.6.3",
+    "react-native": "^0.57.0",
     "react-native-screens": "^1.0.0-alpha.12",
     "react-native-vector-icons": "^5.0.0",
     "react-navigation": "^3.0.0"
@@ -21,7 +21,7 @@
     "@babel/core": "7.0.0-beta.40",
     "babel-eslint": "^9.0.0",
     "babel-jest": "23.4.2",
-    "babel-preset-react-native": "5.0.0",
+    "metro-react-native-babel-preset": "^0.45.6",
     "eslint": "^5.4.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
@@ -29,7 +29,7 @@
     "eslint-plugin-react": "^7.11.1",
     "flow-bin": "^0.79.1",
     "jest": "23.5.0",
-    "react-test-renderer": "^16.4.2"
+    "react-test-renderer": "16.6.3"
   },
   "jest": {
     "preset": "react-native"
